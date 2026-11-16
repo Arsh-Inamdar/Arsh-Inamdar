@@ -79,3 +79,10 @@ Pune District, Maharashtra, India
 - Annotated image, text, video, and 3D data for AI/ML dataset preparation using CVAT, Labelbox, and SuperAnnotate 3D.
 - Met and exceeded daily annotation targets while maintaining quality and consistency.
 - Collaborated with supervisors and quality teams to resolve annotation discrepancies and refine task guidelines.
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/arshinamdar](https://linkedin.com/in/arshinamdar)
+- 💻 GitHub: [github.com/Arsh-Inamdar](https://github.com/Arsh-Inamdar)
