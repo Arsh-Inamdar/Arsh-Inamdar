@@ -86,11 +86,3 @@ Pune District, Maharashtra, India
 
 - 💼 LinkedIn: [linkedin.com/in/arshinamdar](https://linkedin.com/in/arshinamdar)
 - 💻 GitHub: [github.com/Arsh-Inamdar](https://github.com/Arsh-Inamdar)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsh-Inamdar&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" />
-</p>
