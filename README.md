@@ -47,3 +47,35 @@ A hands-on learning repository documenting my journey from Git fundamentals to a
 - Git inspection and recovery techniques
 
 [View Repository](https://github.com/Arsh-Inamdar/git-github-basics)
+
+---
+
+## 💼 Professional Experience
+
+### Quality Assurance Intern
+**Webwide IT Solutions LLP** | July 2026 – September 2026  
+Pune District, Maharashtra, India
+
+- Performed manual, functional, UI, regression, smoke, sanity, retesting, exploratory, browser, and API testing on web applications.
+- Created test scenarios, test cases, and checklists; documented bugs and tracked issues in Jira.
+- Used Postman to validate API requests and responses, including HTTP methods, status codes, headers, response bodies, and data.
+- Applied STLC and defect-management concepts while learning Agile/Scrum workflows through testing assignments.
+
+### Front-End Web Developer Intern
+**PrimaThink Technologies Pvt. Ltd.** | January 2026 – February 2026  
+Pune District, Maharashtra, India
+
+- Developed and optimized responsive web pages using HTML, CSS, and JavaScript.
+- Converted design concepts into functional interfaces and refined layouts for usability, readability, and visual consistency.
+- Contributed to a business-directory interface with business cards, category browsing, search, contact and map features, and detailed business pages.
+- Created a responsive HTML/CSS resume website with clearly structured professional sections.
+- Supported business-listing updates for the YesNearMe platform.
+- Used VS Code and Git/GitHub during development tasks; worked on responsive design, cross-browser compatibility, UI improvements, and debugging.
+
+### Junior GenAI Intern — Data Annotation
+**Qualitas Global Services** | June 2025 – July 2025  
+Pune District, Maharashtra, India
+
+- Annotated image, text, video, and 3D data for AI/ML dataset preparation using CVAT, Labelbox, and SuperAnnotate 3D.
+- Met and exceeded daily annotation targets while maintaining quality and consistency.
+- Collaborated with supervisors and quality teams to resolve annotation discrepancies and refine task guidelines.
