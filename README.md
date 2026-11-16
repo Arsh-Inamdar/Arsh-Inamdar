@@ -33,3 +33,17 @@ I enjoy building practical software solutions, exploring emerging technologies, 
 
 **Development Tools**
 - Git, GitHub, Visual Studio Code
+
+---
+
+## 📂 Featured Repository
+
+### 🔹 Git & GitHub Basics
+A hands-on learning repository documenting my journey from Git fundamentals to advanced Git workflows.
+
+- Practical Git commands and exercises
+- Branching, merging, and pull requests
+- Reset, revert, stash, cherry-pick, and rebase
+- Git inspection and recovery techniques
+
+[View Repository](https://github.com/Arsh-Inamdar/git-github-basics)
